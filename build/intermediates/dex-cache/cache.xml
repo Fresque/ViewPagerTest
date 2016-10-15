@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b9f44e2c6aca8beab47dbf76062b868cf3ed3a96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_39ad57b3692a1471c44420189e0ee9f9f1672747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a60fe78826c7530757cd95edfa2e6a7a50a81008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6d882a5e5aeaa62c40bb81d9aad2bf4e5e2a3a1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="08601f195934976bbcf24243f0b57f8fe02bcf7e">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b01b2692f73491562ad968c74cefe3b1b8002a39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_85fc43c234f47a4bbd44a33636670f6fef1c7760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3a08e445af2c598ac6fac2c2d89822be51041f08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_30e5c2e12d9f3b36a8cfa8d24806679bae0b3770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_e807466bf159d9e6ff59708b96c9f89189f849ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_0cb7c31c465f8f3b80b251c62cff815c8c8b4db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_49ec3adddc14539314d67dab3ac4c2f433e1d03b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_9902ecb97a60d7c5fd4ea9d02e776b3cf3c0ad07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_3cc999b8d068295cc8c1d4a4edb6e0ead37adc1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="569bfa6246bb2dfdc2cf60bbc6a107318ac7ceaf">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_368a49e4ff8fe0221b2f98814194d3d9a814a254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c4bbf756a4f2d3af5e7a1f21bc3a32cb845372b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_01396c3593a2f80c56278364847398a112e924b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\marti\Documents\GitHub\ViewPagerTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_cbb9cfa4dc40e6f0ec82d81ec4ca28368ea23f8f\classes.dex" />
+    </item>
+
+</items>
